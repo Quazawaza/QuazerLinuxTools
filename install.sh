@@ -128,7 +128,7 @@ function install_all() {
     install_rust
     install_java
     install_angryoxide
-    install_angruIPscanner
+    install_angryIPscanner
 }
 function install() {
     header
